@@ -1,0 +1,543 @@
+{
+    "id": 3321,
+    "course_id": 188,
+    "name": "Astronomy By Ajeet Sir",
+    "is_feedback": 1,
+    "subject": "Geography",
+    "videos": [
+        {
+            "id": 118918,
+            "name": "Lecture-15 ।। Astronomy ।। खगोलिकी (Part-14)",
+            "course_id": 188,
+            "lesson_id": 3321,
+            "duration": 0,
+            "order": 1,
+            "type": "kgs",
+            "end_at": "2024-09-09T11:15:00.000Z",
+            "published_at": "2024-09-09T09:00:00.000Z",
+            "enabled": 1,
+            "created_at": "2024-09-15T11:16:27.000Z",
+            "updated_at": "2025-05-14T05:37:03.000Z",
+            "is_live": 0,
+            "thumb": "",
+            "is_live_chat": 0,
+            "is_comment": 0,
+            "teacher_id": 42,
+            "is_demo": 0,
+            "is_free": 0,
+            "mp4s": [],
+            "pdfs": null,
+            "center_id": "5",
+            "studio_id": null,
+            "chat_id": null,
+            "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/geography-ajit-sir/l-15/l-15-geography-ajeet-sir-bpsc71-br.m3u8",
+            "hd_video_url": "https://www.youtube.com/embed/D7QS700m0g4",
+            "download_url": null
+        },
+        {
+            "id": 115246,
+            "name": "Lecture-14 ।। Astronomy ।। खगोलिकी (Part-13)",
+            "course_id": 188,
+            "lesson_id": 3321,
+            "duration": 0,
+            "order": 1,
+            "type": "kgs",
+            "end_at": "2024-09-06T11:15:00.000Z",
+            "published_at": "2024-09-06T09:00:00.000Z",
+            "enabled": 1,
+            "created_at": "2024-09-05T15:06:36.000Z",
+            "updated_at": "2025-04-24T08:02:57.000Z",
+            "is_live": 0,
+            "thumb": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809f031296ad.jpg",
+            "is_live_chat": 0,
+            "is_comment": 0,
+            "teacher_id": 42,
+            "is_demo": 0,
+            "is_free": 0,
+            "mp4s": {
+                "360p": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-14-geography-ajeet-sir-bpsc71-br_360.mp4"
+            },
+            "pdfs": [
+                {
+                    "title": "Astronomy ।। खगोलिकी (Part-13)",
+                    "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/e2fffbf7-96ab-480c-8dad-eec377511a3b.pdf"
+                }
+            ],
+            "center_id": "5",
+            "studio_id": null,
+            "chat_id": null,
+            "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/geography-ajit-sir/l-14/l-14-geography-ajeet-sir-bpsc71-br.m3u8",
+            "hd_video_url": "https://www.youtube.com/embed/tCEGj-8LHVA",
+            "download_url": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-14-geography-ajeet-sir-bpsc71-br_360.mp4"
+        },
+        {
+            "id": 114754,
+            "name": "Lecture-13 ।। Astronomy ।। खगोलिकी (Part-12)",
+            "course_id": 188,
+            "lesson_id": 3321,
+            "duration": 0,
+            "order": 1,
+            "type": "kgs",
+            "end_at": "2024-09-05T11:15:00.000Z",
+            "published_at": "2024-09-05T09:00:00.000Z",
+            "enabled": 1,
+            "created_at": "2024-09-04T15:12:51.000Z",
+            "updated_at": "2025-04-24T08:02:58.000Z",
+            "is_live": 0,
+            "thumb": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809f031e06df.jpg",
+            "is_live_chat": 0,
+            "is_comment": 0,
+            "teacher_id": 42,
+            "is_demo": 0,
+            "is_free": 0,
+            "mp4s": {
+                "360p": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-13-geography-ajeet-sir-bpsc71-br_360.mp4"
+            },
+            "pdfs": [
+                {
+                    "title": "Astronomy ।। खगोलिकी (Part-12)",
+                    "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/998429c7-d7e6-4c60-91ac-4a1d5c10a64e.pdf"
+                }
+            ],
+            "center_id": "5",
+            "studio_id": null,
+            "chat_id": null,
+            "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/geography-ajit-sir/l-13/l-13-geography-ajeet-sir-bpsc71-br.m3u8",
+            "hd_video_url": "https://www.youtube.com/embed/su1fXiPpjbM",
+            "download_url": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-13-geography-ajeet-sir-bpsc71-br_360.mp4"
+        },
+        {
+            "id": 114295,
+            "name": "Lecture-12 ।। Astronomy ।। खगोलिकी (Part-11)",
+            "course_id": 188,
+            "lesson_id": 3321,
+            "duration": 0,
+            "order": 1,
+            "type": "kgs",
+            "end_at": "2024-09-04T11:15:00.000Z",
+            "published_at": "2024-09-04T09:00:00.000Z",
+            "enabled": 1,
+            "created_at": "2024-09-03T15:49:50.000Z",
+            "updated_at": "2025-04-24T08:02:58.000Z",
+            "is_live": 0,
+            "thumb": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809f032729a4.jpg",
+            "is_live_chat": 0,
+            "is_comment": 0,
+            "teacher_id": 42,
+            "is_demo": 0,
+            "is_free": 0,
+            "mp4s": {
+                "360p": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-12-geography-ajeet-sir-bpsc71-br_360.mp4"
+            },
+            "pdfs": [
+                {
+                    "title": "Astronomy ।। खगोलिकी (Part-11)",
+                    "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/9ab6638c-398c-4cff-8f79-87ae99e12eab.pdf"
+                }
+            ],
+            "center_id": "5",
+            "studio_id": null,
+            "chat_id": null,
+            "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/geography-ajit-sir/l-12/l-12-geography-ajeet-sir-bpsc71-br.m3u8",
+            "hd_video_url": "https://www.youtube.com/embed/WrNoiRdDc6A",
+            "download_url": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-12-geography-ajeet-sir-bpsc71-br_360.mp4"
+        },
+        {
+            "id": 113743,
+            "name": "Lecture-11 ।। Astronomy ।। खगोलिकी (Part-10)",
+            "course_id": 188,
+            "lesson_id": 3321,
+            "duration": 0,
+            "order": 1,
+            "type": "kgs",
+            "end_at": "2024-09-03T11:15:00.000Z",
+            "published_at": "2024-09-03T09:00:00.000Z",
+            "enabled": 1,
+            "created_at": "2024-09-02T15:55:59.000Z",
+            "updated_at": "2024-09-17T07:38:47.000Z",
+            "is_live": 0,
+            "thumb": "{\"thumb\":\"https:\\/\\/kgs.nyc3.digitaloceanspaces.com\\/video-thumbs\\/thumb\\/uploads\\/KuupiUzp5z8uYQi6whIoMYXHtWn1VltlO4JkkzFL.png\",\"large\":\"https:\\/\\/kgs.nyc3.digitaloceanspaces.com\\/video-thumbs\\/large\\/uploads\\/KuupiUzp5z8uYQi6whIoMYXHtWn1VltlO4JkkzFL.png",
+            "is_live_chat": 0,
+            "is_comment": 0,
+            "teacher_id": 42,
+            "is_demo": 0,
+            "is_free": 0,
+            "mp4s": {
+                "360p": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-11-geography-ajeet-sir-bpsc71-br_360.mp4"
+            },
+            "pdfs": [
+                {
+                    "title": "Astronomy ।। खगोलिकी (Part-10)",
+                    "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/b5eb26b6-1d36-4939-8d01-29be8673a3c1.pdf"
+                }
+            ],
+            "center_id": "5",
+            "studio_id": null,
+            "chat_id": null,
+            "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/geography-ajit-sir/l-11/l-11-geography-ajeet-sir-bpsc71-br.m3u8",
+            "hd_video_url": "https://www.youtube.com/embed/XEDL1RYrIUI",
+            "download_url": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-11-geography-ajeet-sir-bpsc71-br_360.mp4"
+        },
+        {
+            "id": 113234,
+            "name": "Lecture-10 ।। Astronomy ।। खगोलिकी (Part-9)",
+            "course_id": 188,
+            "lesson_id": 3321,
+            "duration": 0,
+            "order": 1,
+            "type": "kgs",
+            "end_at": "2024-09-02T13:30:00.000Z",
+            "published_at": "2024-09-02T10:30:00.000Z",
+            "enabled": 1,
+            "created_at": "2024-09-01T15:23:54.000Z",
+            "updated_at": "2025-04-24T08:02:59.000Z",
+            "is_live": 0,
+            "thumb": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809f03338000.jpg",
+            "is_live_chat": 0,
+            "is_comment": 0,
+            "teacher_id": 42,
+            "is_demo": 0,
+            "is_free": 0,
+            "mp4s": {
+                "360p": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-10-geography-ajeet-sir-bpsc71-br_360.mp4"
+            },
+            "pdfs": [
+                {
+                    "title": "Astronomy ।। खगोलिकी (Part-9)",
+                    "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/acfdca06-e0de-4d74-8e9d-b02a3633cbf9.pdf"
+                }
+            ],
+            "center_id": "5",
+            "studio_id": null,
+            "chat_id": null,
+            "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/geography-ajit-sir/l-10/l-10-geography-ajeet-sir-bpsc71-br.m3u8",
+            "hd_video_url": "https://www.youtube.com/embed/WAhcNoHkE7k",
+            "download_url": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-10-geography-ajeet-sir-bpsc71-br_360.mp4"
+        },
+        {
+            "id": 112816,
+            "name": "Lecture-09 ।। Astronomy ।। खगोलिकी (Part-8)",
+            "course_id": 188,
+            "lesson_id": 3321,
+            "duration": 0,
+            "order": 1,
+            "type": "kgs",
+            "end_at": "2024-08-31T13:30:00.000Z",
+            "published_at": "2024-08-31T10:30:00.000Z",
+            "enabled": 1,
+            "created_at": "2024-08-30T15:26:29.000Z",
+            "updated_at": "2024-09-17T07:38:16.000Z",
+            "is_live": 0,
+            "thumb": "",
+            "is_live_chat": 0,
+            "is_comment": 0,
+            "teacher_id": 42,
+            "is_demo": 0,
+            "is_free": 0,
+            "mp4s": {
+                "360p": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-09-geography-ajeet-sir-bpsc71-br_360.mp4"
+            },
+            "pdfs": [
+                {
+                    "title": "Astronomy ।। खगोलिकी (Part-8)",
+                    "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/535ad4d9-f026-4bbb-b3a1-af8f8486de54.pdf"
+                }
+            ],
+            "center_id": "5",
+            "studio_id": null,
+            "chat_id": null,
+            "video_url": "https://www.youtube.com/embed/fbU0cqXzO0w",
+            "hd_video_url": "https://www.youtube.com/embed/fbU0cqXzO0w",
+            "download_url": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-09-geography-ajeet-sir-bpsc71-br_360.mp4"
+        },
+        {
+            "id": 112411,
+            "name": "Lecture-08 ।। Astronomy ।। खगोलिकी (Part-7)",
+            "course_id": 188,
+            "lesson_id": 3321,
+            "duration": 0,
+            "order": 1,
+            "type": "kgs",
+            "end_at": "2024-08-30T13:30:00.000Z",
+            "published_at": "2024-08-30T10:30:00.000Z",
+            "enabled": 1,
+            "created_at": "2024-08-29T16:08:46.000Z",
+            "updated_at": "2025-04-24T08:03:00.000Z",
+            "is_live": 0,
+            "thumb": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809f033bd96d.jpg",
+            "is_live_chat": 0,
+            "is_comment": 0,
+            "teacher_id": 42,
+            "is_demo": 0,
+            "is_free": 0,
+            "mp4s": {
+                "360p": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-08-geography-ajeet-sir-bpsc71-br_360.mp4"
+            },
+            "pdfs": [
+                {
+                    "title": "Astronomy ।। खगोलिकी (Part-7)",
+                    "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/0de8e5ca-730f-4619-8143-6d03cf4d7f71.pdf"
+                }
+            ],
+            "center_id": "5",
+            "studio_id": null,
+            "chat_id": null,
+            "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/geography-ajit-sir/l-08/l-08-geography-ajeet-sir-bpsc71-br.m3u8",
+            "hd_video_url": "https://www.youtube.com/embed/xif2ZTATUDE",
+            "download_url": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-08-geography-ajeet-sir-bpsc71-br_360.mp4"
+        },
+        {
+            "id": 111945,
+            "name": "Lecture-07 ।। Astronomy ।। खगोलिकी (Part-6)",
+            "course_id": 188,
+            "lesson_id": 3321,
+            "duration": 0,
+            "order": 1,
+            "type": "kgs",
+            "end_at": "2024-08-29T13:30:00.000Z",
+            "published_at": "2024-08-29T10:30:00.000Z",
+            "enabled": 1,
+            "created_at": "2024-08-28T16:04:58.000Z",
+            "updated_at": "2025-04-24T08:03:00.000Z",
+            "is_live": 0,
+            "thumb": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809f03453c72.jpg",
+            "is_live_chat": 0,
+            "is_comment": 0,
+            "teacher_id": 42,
+            "is_demo": 0,
+            "is_free": 0,
+            "mp4s": {
+                "360p": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-07-geography-ajeet-sir-bpsc71-br_360.mp4"
+            },
+            "pdfs": [
+                {
+                    "title": "Astronomy ।। खगोलिकी (Part-6)",
+                    "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/a25ad14f-db75-4192-97e8-2d6c34da506a.pdf"
+                }
+            ],
+            "center_id": "5",
+            "studio_id": null,
+            "chat_id": null,
+            "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/geography-ajit-sir/l-07/l-07-geography-ajeet-sir-bpsc71-br.m3u8",
+            "hd_video_url": "https://www.youtube.com/embed/YG_juaYkFBk",
+            "download_url": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-07-geography-ajeet-sir-bpsc71-br_360.mp4"
+        },
+        {
+            "id": 111455,
+            "name": "Lecture-06 ।। Astronomy ।। खगोलिकी (Part-5)",
+            "course_id": 188,
+            "lesson_id": 3321,
+            "duration": 0,
+            "order": 1,
+            "type": "kgs",
+            "end_at": "2024-08-28T13:30:00.000Z",
+            "published_at": "2024-08-28T10:30:00.000Z",
+            "enabled": 1,
+            "created_at": "2024-08-27T16:07:22.000Z",
+            "updated_at": "2025-04-24T08:03:01.000Z",
+            "is_live": 0,
+            "thumb": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809f034da975.jpg",
+            "is_live_chat": 0,
+            "is_comment": 0,
+            "teacher_id": 42,
+            "is_demo": 0,
+            "is_free": 0,
+            "mp4s": {
+                "360p": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-06-geography-ajeet-sir-bpsc71-br_360.mp4"
+            },
+            "pdfs": [
+                {
+                    "title": "Astronomy ।। खगोलिकी (Part-5)",
+                    "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/83f2a994-2442-4a95-a6a2-02275731f794.pdf"
+                }
+            ],
+            "center_id": "5",
+            "studio_id": null,
+            "chat_id": null,
+            "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/geography-ajit-sir/l-06/l-06-geography-ajeet-sir-bpsc71-br.m3u8",
+            "hd_video_url": "https://www.youtube.com/embed/8AMo8z_bGTY",
+            "download_url": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-06-geography-ajeet-sir-bpsc71-br_360.mp4"
+        },
+        {
+            "id": 111167,
+            "name": "Lecture-05 ।। Astronomy ।। खगोलिकी (Part-4)",
+            "course_id": 188,
+            "lesson_id": 3321,
+            "duration": 0,
+            "order": 1,
+            "type": "kgs",
+            "end_at": "2024-08-27T13:30:00.000Z",
+            "published_at": "2024-08-27T10:30:00.000Z",
+            "enabled": 1,
+            "created_at": "2024-08-27T10:37:12.000Z",
+            "updated_at": "2024-12-20T09:44:03.000Z",
+            "is_live": 0,
+            "thumb": "{\"thumb\":\"https:\\/\\/kgs.nyc3.digitaloceanspaces.com\\/video-thumbs\\/thumb\\/uploads\\/hdS8DwtgwsAYyhT0EgsETR0yaqSqG9q9TORDbjza.png\",\"large\":\"https:\\/\\/kgs.nyc3.digitaloceanspaces.com\\/video-thumbs\\/large\\/uploads\\/hdS8DwtgwsAYyhT0EgsETR0yaqSqG9q9TORDbjza.png",
+            "is_live_chat": 0,
+            "is_comment": 0,
+            "teacher_id": 42,
+            "is_demo": 0,
+            "is_free": 0,
+            "mp4s": {
+                "360p": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-05-geography-ajeet-sir-bpsc71-br_360.mp4"
+            },
+            "pdfs": [
+                {
+                    "title": "Astronomy ।। खगोलिकी (Part-4)",
+                    "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/c6d5c5e7-f165-434e-8e0a-87626b5f6523.pdf"
+                }
+            ],
+            "center_id": "5",
+            "studio_id": null,
+            "chat_id": null,
+            "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/geography-ajit-sir/l-05/l-05-geography-ajeet-sir-bpsc71-br.m3u8",
+            "hd_video_url": "https://www.youtube.com/embed/BFJVtb9a2yQ",
+            "download_url": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-05-geography-ajeet-sir-bpsc71-br_360.mp4"
+        },
+        {
+            "id": 111248,
+            "name": "Lecture-04 ।। Astronomy ।। खगोलिकी (Part-3)",
+            "course_id": 188,
+            "lesson_id": 3321,
+            "duration": 0,
+            "order": 1,
+            "type": "kgs",
+            "end_at": null,
+            "published_at": "2024-08-26T06:30:00.000Z",
+            "enabled": 1,
+            "created_at": "2024-08-27T11:23:34.000Z",
+            "updated_at": "2025-04-24T08:03:01.000Z",
+            "is_live": 0,
+            "thumb": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809f0359f436.jpg",
+            "is_live_chat": 0,
+            "is_comment": 0,
+            "teacher_id": 42,
+            "is_demo": 0,
+            "is_free": 0,
+            "mp4s": {
+                "360p": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-04-geography-ajeet-sir-bpsc71-br_360.mp4"
+            },
+            "pdfs": [
+                {
+                    "title": "Astronomy ।। खगोलिकी (Part-3)",
+                    "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/41e14a8b-a522-4bb7-a495-7813b6f40549.pdf"
+                }
+            ],
+            "center_id": "5",
+            "studio_id": null,
+            "chat_id": null,
+            "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/geography-ajit-sir/l-04/l-04-geography-ajeet-sir-bpsc71-br.m3u8",
+            "hd_video_url": "https://www.youtube.com/embed/z2Sz-RfryLE",
+            "download_url": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-04-geography-ajeet-sir-bpsc71-br_360.mp4"
+        },
+        {
+            "id": 111240,
+            "name": "Lecture-03 ।। Astronomy ।। खगोलिकी (Part-2)",
+            "course_id": 188,
+            "lesson_id": 3321,
+            "duration": 0,
+            "order": 1,
+            "type": "kgs",
+            "end_at": null,
+            "published_at": "2024-08-24T06:30:00.000Z",
+            "enabled": 1,
+            "created_at": "2024-08-27T11:21:10.000Z",
+            "updated_at": "2025-04-24T08:03:02.000Z",
+            "is_live": 0,
+            "thumb": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809f0362f96c.jpg",
+            "is_live_chat": 0,
+            "is_comment": 0,
+            "teacher_id": 42,
+            "is_demo": 0,
+            "is_free": 0,
+            "mp4s": {
+                "360p": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-03-geography-ajeet-sir-bpsc71-br_360.mp4"
+            },
+            "pdfs": [
+                {
+                    "title": "Astronomy ।। खगोलिकी (Part-2)",
+                    "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/5dc93418-c0da-434b-8781-1ec70882daa4.pdf"
+                }
+            ],
+            "center_id": "5",
+            "studio_id": null,
+            "chat_id": null,
+            "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/geography-ajit-sir/l-03/l-03-geography-ajeet-sir-bpsc71-br.m3u8",
+            "hd_video_url": "https://www.youtube.com/embed/OXOBaacwm8w",
+            "download_url": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-03-geography-ajeet-sir-bpsc71-br_360.mp4"
+        },
+        {
+            "id": 111233,
+            "name": "Lecture-02 ।। Astronomy ।। खगोलिकी  (Part-1)",
+            "course_id": 188,
+            "lesson_id": 3321,
+            "duration": 0,
+            "order": 1,
+            "type": "kgs",
+            "end_at": null,
+            "published_at": "2024-08-23T06:30:00.000Z",
+            "enabled": 1,
+            "created_at": "2024-08-27T11:18:24.000Z",
+            "updated_at": "2025-04-24T08:03:02.000Z",
+            "is_live": 0,
+            "thumb": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809f036b8059.jpg",
+            "is_live_chat": 0,
+            "is_comment": 0,
+            "teacher_id": 42,
+            "is_demo": 0,
+            "is_free": 0,
+            "mp4s": {
+                "360p": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-02-geography-ajeet-sir-bpsc71-br_360.mp4"
+            },
+            "pdfs": [
+                {
+                    "title": "Astronomy ।। खगोलिकी  (Part-1)",
+                    "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/4a79df61-5c2f-47e9-9d23-4662ef79f7aa.pdf"
+                }
+            ],
+            "center_id": "5",
+            "studio_id": null,
+            "chat_id": null,
+            "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/geography-ajit-sir/l-02/l-02-geography-ajeet-sir-bpsc71-br.m3u8",
+            "hd_video_url": "https://www.youtube.com/embed/KAqcTEyCh8A",
+            "download_url": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-02-geography-ajeet-sir-bpsc71-br_360.mp4"
+        },
+        {
+            "id": 111226,
+            "name": "Lecture-01 ।। Geography Introduction Class",
+            "course_id": 188,
+            "lesson_id": 3321,
+            "duration": 0,
+            "order": 1,
+            "type": "kgs",
+            "end_at": null,
+            "published_at": "2024-08-22T06:30:00.000Z",
+            "enabled": 1,
+            "created_at": "2024-08-27T11:15:46.000Z",
+            "updated_at": "2025-04-24T08:03:03.000Z",
+            "is_live": 0,
+            "thumb": "https://kgs.nyc3.digitaloceanspaces.com/resized_thumbs/6809f03747266.jpg",
+            "is_live_chat": 0,
+            "is_comment": 0,
+            "teacher_id": 42,
+            "is_demo": 0,
+            "is_free": 0,
+            "mp4s": {
+                "360p": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-01-geography-ajeet-sir-bpsc71-br_360.mp4"
+            },
+            "pdfs": [
+                {
+                    "title": "Geography Introduction Class",
+                    "url": "https://kgs.nyc3.digitaloceanspaces.com/pdfs/85c6e8ae-a67b-483b-af85-ae33c5add873.pdf"
+                }
+            ],
+            "center_id": "5",
+            "studio_id": null,
+            "chat_id": null,
+            "video_url": "https://kgs-v1.akamaized.net/kv4-state-pcs/71st-bpsc-boring-road/geography-ajit-sir/l-01/l-01-geography-ajeet-sir-bpsc71-br.m3u8",
+            "hd_video_url": "https://www.youtube.com/embed/mhiU7fcOVOA",
+            "download_url": "https://kgs-v2.akamaized.net/320p/320p/bpsc71-br/geography/l-01-geography-ajeet-sir-bpsc71-br_360.mp4"
+        }
+    ],
+    "notes": []
+}
