@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Classrooms</title>
+  <style>
+    body { font-family: sans-serif; background: #f2f2f2; padding: 20px; }
+    .classroom { background: #fff; padding: 10px; margin-bottom: 10px; border-radius: 6px; }
+    .btn { padding: 5px 10px; background: #3498db; color: white; border: none; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <h1>Classrooms</h1>
+  <div id="classrooms">Loading...</div>
+  <script>
+    fetch('output.json')
+      .then(res => res.json())
+      .then(data => {
+        const out = data.classrooms.map(c => \`
+          <div class="classroom">
+            <p><strong>ID:</strong> \${c.id}</p>
+            <p><strong>Name:</strong> \${c.name}</p>
+            <p><strong>Subject:</strong> \${c.subject || 'N/A'}</p>
+            <button class="btn" onclick="alert('Classroom ID: \${c.id}')">Details</button>
+          </div>\`
+        ).join('');
+        document.getElementById('classrooms').innerHTML = out;
+      })
+      .catch(err => document.getElementById('classrooms').innerHTML = 'Failed to load data.');
+  </script>
+</body>
+</html>
