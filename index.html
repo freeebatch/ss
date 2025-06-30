@@ -1,5 +1,100 @@
 <!DOCTYPE html>
-<html>
-<head><title>Course Info</title></head>
-<body><h1>BPSC 70th Batch</h1><p>Loaded via output.json</p></body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Astronomy Lectures by Ajeet Sir</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      padding: 20px;
+    }
+    .card {
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      padding: 16px;
+      margin: 12px 0;
+      display: flex;
+      gap: 16px;
+      align-items: flex-start;
+    }
+    .card img {
+      width: 180px;
+      height: 100px;
+      object-fit: cover;
+      border-radius: 6px;
+    }
+    .card-content {
+      flex: 1;
+    }
+    .card h3 {
+      margin: 0 0 10px;
+    }
+    .card a {
+      display: inline-block;
+      margin-right: 10px;
+      color: blue;
+      text-decoration: none;
+    }
+    .card a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Astronomy Lectures by Ajeet Sir</h1>
+  <div id="cards-container">Loading...</div>
+
+  <script>
+    fetch('astronomy.json')
+      .then(response => response.json())
+      .then(data => {
+        const container = document.getElementById("cards-container");
+        container.innerHTML = ''; // clear loading text
+
+        data.videos.forEach(video => {
+          const card = document.createElement("div");
+          card.className = "card";
+
+          const img = document.createElement("img");
+          img.src = video.thumb || "https://via.placeholder.com/180x100?text=No+Image";
+
+          const content = document.createElement("div");
+          content.className = "card-content";
+
+          const title = document.createElement("h3");
+          title.textContent = video.name;
+
+          const videoLink = document.createElement("a");
+          videoLink.href = video.hd_video_url || video.video_url;
+          videoLink.target = "_blank";
+          videoLink.textContent = "Watch Video";
+
+          content.appendChild(title);
+          content.appendChild(videoLink);
+
+          if (video.pdfs && video.pdfs.length > 0) {
+            video.pdfs.forEach(pdf => {
+              const pdfLink = document.createElement("a");
+              pdfLink.href = pdf.url;
+              pdfLink.target = "_blank";
+              pdfLink.textContent = `📄 ${pdf.title}`;
+              content.appendChild(pdfLink);
+            });
+          }
+
+          card.appendChild(img);
+          card.appendChild(content);
+          container.appendChild(card);
+        });
+      })
+      .catch(err => {
+        document.getElementById("cards-container").innerHTML = "Error loading data.";
+        console.error("Fetch error:", err);
+      });
+  </script>
+
+</body>
 </html>
